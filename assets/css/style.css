@@ -1,10 +1,10 @@
 /* =======================================================================
-Template Name: Shail Foundation
-Author:  Prince Tech
-Author URI:https://princekumarpal.netlify.app/
+Template Name: Prince
+Author:  Prnce Kumar Pal
+Author URI: princekumarpal.netlify.app
 Version: 1.0
-coder name:Mr. Prince
-Description: This Template is created for College
+coder name:Prabin Raja
+Description: This Template is created for Youtubers
 ======================================================================= */
 /* ===================================== Import Variables ================================== */
 @import url(https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700);
@@ -308,7 +308,7 @@ header {
       header .nav-col .navbad {
         width: 100%; } }
     header .nav-col .navbad li {
-      padding: 15px 15px;
+      padding: 15px 12px;
       font-weight: 700;
       font-size: .9rem;
       float: left; }
@@ -319,7 +319,7 @@ header {
         header .nav-col .navbad li {
           float: none;
           width: 100%;
-          padding: 10px; } }
+          padding: 8px; } }
       header .nav-col .navbad li a {
         color: #686968 !important;
         border: 1px solid #CCC;
@@ -368,13 +368,13 @@ header {
 @media screen and (max-width: 1050px) {
   .slider-captions {
     bottom: 100px !important; }
-
   width: 90%;
   text-align: center;
   float: none;
-  margin: auto;}
+  margin: auto;
+ }
   .slider-captions .slider-title {
-    font-size: 42px; } }
+    font-size: 42px; } 
 @media screen and (max-width: 810px) {
   .slider-captions {
     bottom: 50px !important; }
